@@ -16,6 +16,6 @@ $ chmod a+x tool.sh ; sudo bash tool.sh
 Use this just in case if you think you feel you need to protect you USB ports. By disabling power supply from your USB ports, you won't be able to use any power output devices such as keyboards, mouses, etc. so be careful. This tool allows you to revert changes if needed. 
 
 ## License
-No license. I just made this not also to learn bash but to build a quamtum energy of what i've been writing in my articles and in my mental notes. 
+No license. I just made this not also to learn bash but to build a different quamtum energy of what i've been writing in my articles and in my mental notes about protecting special things in a different and complex way. ❤️
 
 
